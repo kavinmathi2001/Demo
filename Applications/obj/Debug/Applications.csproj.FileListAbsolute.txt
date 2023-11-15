@@ -1,0 +1,12 @@
+E:\program\Applications\Applications\bin\Debug\Applications.exe.config
+E:\program\Applications\Applications\bin\Debug\Applications.exe
+E:\program\Applications\Applications\bin\Debug\Applications.pdb
+E:\program\Applications\Applications\obj\Debug\Applications.csprojResolveAssemblyReference.cache
+E:\program\Applications\Applications\obj\Debug\Applications.exe
+E:\program\Applications\Applications\obj\Debug\Applications.pdb
+E:\oops\program\Applications\Applications\bin\Debug\Applications.exe.config
+E:\oops\program\Applications\Applications\obj\Debug\Applications.exe
+E:\oops\program\Applications\Applications\obj\Debug\Applications.pdb
+E:\oops\program\Applications\Applications\bin\Debug\Applications.exe
+E:\oops\program\Applications\Applications\bin\Debug\Applications.pdb
+E:\oops\program\Applications\Applications\obj\Debug\Applications.csprojResolveAssemblyReference.cache
