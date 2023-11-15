@@ -31,6 +31,7 @@ namespace Applications
             {
                 Console.WriteLine("Thanks For Choosing Patron Option");
                 Console.WriteLine("Please Enter Patron Details");
+                Console.WriteLine(" ");
             }
 
         }
